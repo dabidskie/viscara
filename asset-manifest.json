@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/viscara/static/css/main.040c2d66.css",
+    "main.js": "/viscara/static/js/main.930920a9.js",
+    "static/js/787.97d11e68.chunk.js": "/viscara/static/js/787.97d11e68.chunk.js",
+    "static/media/icegif-830.gif": "/viscara/static/media/icegif-830.40c52158e464667bf752.gif",
+    "index.html": "/viscara/index.html",
+    "main.040c2d66.css.map": "/viscara/static/css/main.040c2d66.css.map",
+    "main.930920a9.js.map": "/viscara/static/js/main.930920a9.js.map",
+    "787.97d11e68.chunk.js.map": "/viscara/static/js/787.97d11e68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040c2d66.css",
+    "static/js/main.930920a9.js"
+  ]
+}
